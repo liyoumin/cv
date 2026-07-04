@@ -13,7 +13,7 @@ image:
 ---
 
 ## 🚂 The Alpine Transit Experience & Scenic Arteries 
-
+Study in Lisbon and play in Swiss [https://mp.weixin.qq.com/s/Hms4t6ahC5U2V3CGPRlKHA]
 Traveling through Switzerland highlights how masterfully designed infrastructure can elevate a journey. Utilizing the **Eurail Youth Pass** (offering excellent discounts for travelers under 27) makes navigating the dense Swiss transit network incredibly efficient and seamless. 
 
 The iconic **Swiss GoldenPass Line** and connecting panoramic train routes turn simple transit into a primary attraction. These glass-domed observation cars offer uninterrupted views of emerald valleys, sheer cliff faces, and cascading waterfalls, proving that thoughtful public transit can harmoniously blend utility with breathtaking natural beauty.
