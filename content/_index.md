@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-       I am interested in interdisciplinary of machine learning, IoT, GIS and Remote Sensing application in AgEcon research. I apply a range of qualitative and quantitative methods to comprehensively investigate the role of agricultural science and technology in the Rangeland AgEconomy. I grow up in Inner Mongolia - China, and enjoy the prairie life. 
+       I am interested in interdisciplinary of ML, IoT, GIS and RS application in AgEcon research. I apply a range of qualitative and quantitative methods to comprehensively investigate the role of agricultural science and technology in the Rangeland AgEconomy. I grow up in Inner Mongolia - China, and enjoy the prairie life. 
     
         Welcome to talk with me 😃
     
